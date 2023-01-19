@@ -15,5 +15,5 @@ public class ArrayList
 		al.add(3, 42.32);
 		System.out.println(al);
 	}
-
+// Text I
 }
